@@ -1,0 +1,32 @@
+.result {
+  height: 60px;
+  background-color: #bbb;
+  width: 100%;
+  text-align: right;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+}
+
+.calculator-body {
+  max-width: 550px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 18px;
+}
+
+.other-action {
+  display: flex;
+  margin-top: 14px;
+  justify-content: space-between;
+}
